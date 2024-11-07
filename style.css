@@ -149,7 +149,7 @@ header nav.menu-desktop ul li {
 /* estilo do topo do site */
 
 section.topo-do-site {
-  padding: 130px 4%;
+  padding: 120px 4%;
 }
 
 section .topo-do-site .flex {
@@ -159,14 +159,13 @@ section .topo-do-site .flex {
 }
 
 .topo-do-site h1 {
-  padding: 150px;
+  padding: 140px;
   color: #fff;
   font-size: 48px;
   line-height: 40px;
 }
 
 .topo-do-site .txt-topo-site p {
-  padding: 150px;
   color: #fff;
   margin: 40px 0;
 }
