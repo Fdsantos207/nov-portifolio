@@ -314,6 +314,7 @@ section.portifolio .flex {
   transition: 7s;
   cursor: pointer;
   border-radius: 40px;
+  gap: 10px;
   position: relative;
 }
 
