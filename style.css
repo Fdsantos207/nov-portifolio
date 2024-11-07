@@ -159,7 +159,7 @@ section .topo-do-site .flex {
 }
 
 .topo-do-site h1 {
-  padding: 140px;
+  padding: 100px 4%;
   color: #fff;
   font-size: 48px;
   line-height: 40px;
